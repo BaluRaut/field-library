@@ -1,10 +1,10 @@
 # The Backend Engineer's Field Library
 
-A landing page tying together four battle-tested playbooks — **4 playbooks, 270 topics, one connected mental model** for the whole backend stack.
+A landing page tying together five battle-tested playbooks — **5 playbooks, 330 topics, one connected mental model** for the whole modern backend stack.
 
 🔗 **Live:** https://baluraut.github.io/field-library/
 
-## The four playbooks
+## The five playbooks
 
 | Playbook | Topics | Covers |
 | --- | --- | --- |
@@ -12,6 +12,7 @@ A landing page tying together four battle-tested playbooks — **4 playbooks, 27
 | [Ruby &amp; Rails Pro Playbook](https://baluraut.github.io/ruby-rails-pro-playbook/) | 104 | 52 Ruby + 52 Rails — language to production |
 | [EKS · ECR · CircleCI Playbook](https://baluraut.github.io/eks-ecr-circleci-playbook/) | 60 | Containers → Kubernetes → CI/CD deploys |
 | [Linux &amp; Networking Playbook](https://baluraut.github.io/linux-networking-playbook/) | 60 | The machine, the shell, TCP/IP, debugging |
+| [Agentic AI &amp; MCP Playbook](https://baluraut.github.io/agentic-ai-mcp-playbook/) | 60 | LLM agents, the agent loop, MCP servers, evals &amp; safety |
 
 ## Why one library
 
