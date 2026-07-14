@@ -1,10 +1,10 @@
 # The Backend Engineer's Field Library
 
-A landing page tying together six battle-tested playbooks — **6 playbooks, 325 topics, one connected mental model** for the whole modern backend stack.
+A landing page tying together ten battle-tested playbooks — **10 playbooks, 445 topics, one connected mental model** for the whole modern stack.
 
 🔗 **Live:** https://baluraut.github.io/field-library/
 
-## The six playbooks
+## The ten playbooks
 
 | Playbook | Topics | Covers |
 | --- | --- | --- |
@@ -14,6 +14,10 @@ A landing page tying together six battle-tested playbooks — **6 playbooks, 325
 | [Linux &amp; Networking Playbook](https://baluraut.github.io/linux-networking-playbook/) | 60 | The machine, the shell, TCP/IP, debugging |
 | [MCP Server Playbook](https://baluraut.github.io/mcp-server-playbook/) | 25 | Building MCP servers — primitives, transports, OAuth, trust |
 | [Agentic AI Playbook](https://baluraut.github.io/agentic-ai-playbook/) | 30 | LLM agents, the agent loop, RAG, evals &amp; safety |
+| [Distributed Systems &amp; Event-Driven Playbook](https://baluraut.github.io/distributed-systems-playbook/) | 30 | CAP, Kafka, sagas, outbox, caching, resilience |
+| [Node.js &amp; TypeScript Playbook](https://baluraut.github.io/nodejs-typescript-playbook/) | 30 | Event loop, async, streams, the TS type system, shipping |
+| [React &amp; TypeScript Playbook](https://baluraut.github.io/react-typescript-playbook/) | 30 | JSX, hooks, rendering, state, typing React, a11y |
+| [System Design &amp; Technical Leadership Playbook](https://baluraut.github.io/system-design-leadership-playbook/) | 30 | Scaling, SLOs, tradeoffs, code review, mentoring, RFCs |
 
 ## Why one library
 
