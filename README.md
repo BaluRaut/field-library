@@ -1,10 +1,10 @@
 # The Backend Engineer's Field Library
 
-A landing page tying together five battle-tested playbooks — **5 playbooks, 330 topics, one connected mental model** for the whole modern backend stack.
+A landing page tying together six battle-tested playbooks — **6 playbooks, 325 topics, one connected mental model** for the whole modern backend stack.
 
 🔗 **Live:** https://baluraut.github.io/field-library/
 
-## The five playbooks
+## The six playbooks
 
 | Playbook | Topics | Covers |
 | --- | --- | --- |
@@ -12,7 +12,8 @@ A landing page tying together five battle-tested playbooks — **5 playbooks, 33
 | [Ruby &amp; Rails Pro Playbook](https://baluraut.github.io/ruby-rails-pro-playbook/) | 104 | 52 Ruby + 52 Rails — language to production |
 | [EKS · ECR · CircleCI Playbook](https://baluraut.github.io/eks-ecr-circleci-playbook/) | 60 | Containers → Kubernetes → CI/CD deploys |
 | [Linux &amp; Networking Playbook](https://baluraut.github.io/linux-networking-playbook/) | 60 | The machine, the shell, TCP/IP, debugging |
-| [Agentic AI &amp; MCP Playbook](https://baluraut.github.io/agentic-ai-mcp-playbook/) | 60 | LLM agents, the agent loop, MCP servers, evals &amp; safety |
+| [MCP Server Playbook](https://baluraut.github.io/mcp-server-playbook/) | 25 | Building MCP servers — primitives, transports, OAuth, trust |
+| [Agentic AI Playbook](https://baluraut.github.io/agentic-ai-playbook/) | 30 | LLM agents, the agent loop, RAG, evals &amp; safety |
 
 ## Why one library
 
