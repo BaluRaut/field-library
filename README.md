@@ -1,20 +1,22 @@
 # The Backend Engineer's Field Library
 
-A landing page tying together ten battle-tested playbooks — **10 playbooks, 445 topics, one connected mental model** for the whole modern stack.
+A landing page tying together twelve battle-tested playbooks — **12 playbooks, 453 topics, one connected mental model** for the whole modern stack.
 
 🔗 **Live:** https://baluraut.github.io/field-library/
 
-## The ten playbooks
+## The twelve playbooks
 
 | Playbook | Topics | Covers |
 | --- | --- | --- |
 | [PostgreSQL Pro Playbook](https://baluraut.github.io/postgres-pro-playbook/) | 46 | UPSERT, window functions, JSONB, indexing, tuning |
 | [Ruby &amp; Rails Pro Playbook](https://baluraut.github.io/ruby-rails-pro-playbook/) | 104 | 52 Ruby + 52 Rails — language to production |
 | [EKS · ECR · CircleCI Playbook](https://baluraut.github.io/eks-ecr-circleci-playbook/) | 60 | Containers → Kubernetes → CI/CD deploys |
-| [Linux &amp; Networking Playbook](https://baluraut.github.io/linux-networking-playbook/) | 60 | The machine, the shell, TCP/IP, debugging |
+| [Linux Playbook](https://baluraut.github.io/linux-playbook/) | 34 | Files, processes, the shell toolbelt, systemd, cgroups |
+| [Networking Playbook](https://baluraut.github.io/networking-playbook/) | 26 | IP, TCP/UDP, DNS, TLS, HTTP, firewalls, debugging |
 | [MCP Server Playbook](https://baluraut.github.io/mcp-server-playbook/) | 25 | Building MCP servers — primitives, transports, OAuth, trust |
 | [Agentic AI Playbook](https://baluraut.github.io/agentic-ai-playbook/) | 30 | LLM agents, the agent loop, RAG, evals &amp; safety |
-| [Distributed Systems &amp; Event-Driven Playbook](https://baluraut.github.io/distributed-systems-playbook/) | 30 | CAP, Kafka, sagas, outbox, caching, resilience |
+| [Distributed Systems Playbook](https://baluraut.github.io/distributed-systems-playbook/) | 22 | CAP, consensus, replication, sharding, caching, resilience |
+| [Event-Driven Architecture Playbook](https://baluraut.github.io/event-driven-playbook/) | 16 | Queues, streams, Kafka, sagas, outbox, CQRS, DLQs |
 | [Node.js &amp; TypeScript Playbook](https://baluraut.github.io/nodejs-typescript-playbook/) | 30 | Event loop, async, streams, the TS type system, shipping |
 | [React &amp; TypeScript Playbook](https://baluraut.github.io/react-typescript-playbook/) | 30 | JSX, hooks, rendering, state, typing React, a11y |
 | [System Design &amp; Technical Leadership Playbook](https://baluraut.github.io/system-design-leadership-playbook/) | 30 | Scaling, SLOs, tradeoffs, code review, mentoring, RFCs |
