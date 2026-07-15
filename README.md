@@ -1,10 +1,10 @@
 # The Backend Engineer's Field Library
 
-A landing page tying together fourteen battle-tested playbooks — **14 playbooks, 509 topics, one connected mental model** for the whole modern stack.
+A landing page tying together sixteen battle-tested playbooks — **16 playbooks, 561 topics, one connected mental model** for the whole modern stack.
 
 🔗 **Live:** https://baluraut.github.io/field-library/
 
-## The fourteen playbooks
+## The sixteen playbooks
 
 | Playbook | Topics | Covers |
 | --- | --- | --- |
@@ -22,6 +22,8 @@ A landing page tying together fourteen battle-tested playbooks — **14 playbook
 | [Application Security Playbook](https://baluraut.github.io/security-playbook/) | 30 | XSS, CSRF, SQLi, access control, SSRF, secrets, TLS, incident response |
 | [PostgreSQL Disaster Recovery on AWS](https://baluraut.github.io/postgres-dr-playbook/) | 26 | RPO/RTO, PITR, WAL, pgBackRest, RDS/Aurora, cross-region failover, drills |
 | [System Design &amp; Technical Leadership Playbook](https://baluraut.github.io/system-design-leadership-playbook/) | 30 | Scaling, SLOs, tradeoffs, code review, mentoring, RFCs |
+| [Object-Oriented Programming Playbook](https://baluraut.github.io/oop-playbook/) | 24 | Pillars, composition, SOLID, value objects, when NOT to use OOP — real examples |
+| [Design Patterns Playbook](https://baluraut.github.io/patterns-playbook/) | 28 | Creational, structural, behavioral & architectural patterns — real systems, not toy shapes |
 
 ## Worked case studies
 
@@ -38,7 +40,7 @@ Six applied, end-to-end case studies — each puts a playbook (or two) to work o
 
 ## Why one library
 
-These aren't fourteen separate subjects — they're one stack seen from fourteen heights, and the playbooks cross-reference each other on purpose: a Rails N+1 becomes a Postgres query plan; a container is a Linux process with a cgroup, so a Kubernetes `OOMKilled` and a bare-metal OOM are the same event; jsonb reappears as `store_accessor`; a CIDR block is a CIDR block whether it's a subnet or a VPC; and a prompt-injection defense is the same least-privilege and input-validation instinct the Application Security playbook teaches as its own layer.
+These aren't sixteen separate subjects — they're one stack seen from sixteen heights, and the playbooks cross-reference each other on purpose: a Rails N+1 becomes a Postgres query plan (and is really a lazy-loading Proxy pattern); a container is a Linux process with a cgroup, so a Kubernetes `OOMKilled` and a bare-metal OOM are the same event; jsonb reappears as `store_accessor`; a CIDR block is a CIDR block whether it's a subnet or a VPC; a prompt-injection defense is the same least-privilege and input-validation instinct the Application Security playbook teaches as its own layer; and underneath all of it, the object-design and design-pattern playbooks name the craft your frameworks are already built from — middleware as a Chain of Responsibility of Decorators, a repository over Postgres, a circuit breaker wrapping a distributed call.
 
 ## View locally
 
